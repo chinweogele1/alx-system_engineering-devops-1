@@ -1,2 +1,2 @@
 #!/biN/BASH
-PRINTF %10\n $DECIMAL
+PRINTF %x\n $DECIMAL
